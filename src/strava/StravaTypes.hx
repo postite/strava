@@ -1,7 +1,7 @@
 package strava;
 
 import tink.Url;
-import thx.Time;
+
 import datetime.DateTime;
 
 @:observable

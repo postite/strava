@@ -243,6 +243,8 @@ typedef Activity={
  weighted_average_watts:Int,
 // 	Similar to Normalized Power. Rides with power meter data only 
 
+
+has_heartrate:Bool,
 }
 
 

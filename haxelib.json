@@ -9,6 +9,7 @@
    "releasenote": "wip.",
    "contributors": ["postite"],
    "dependencies": {
-    
+      "datetime":"",
+      "tink_json":""
    }
  }

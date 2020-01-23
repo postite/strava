@@ -1,1 +1,14 @@
-haxelib.json
+{
+   "name": "strava",
+   "url" : "http://github.com/postite/cocomantic",
+   "license": "MIT",
+   "tags": ["api strava"],
+   "description": "strava types",
+   "version": "0.0.3",
+   "classPath": "src/",
+   "releasenote": "wip.",
+   "contributors": ["postite"],
+   "dependencies": {
+    
+   }
+ }

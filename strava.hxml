@@ -1,0 +1,6 @@
+
+# @install: lix --silent download "gh://github.com/MVCoconut/coconut.data#5bb0673aca10657248815c49d20ce57bca4c39fd" into coconut.data/0.8.1/github/5bb0673aca10657248815c49d20ce57bca4c39fd
+-lib tink_json
+-lib datetime
+
+-cp /Users/ut/Documents/LAB/strava/src
